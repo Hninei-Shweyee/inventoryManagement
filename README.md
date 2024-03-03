@@ -1,7 +1,9 @@
 #Inventory Management Project
 
 ###Group Project, Intro to Software Engineering.
+
 ###Software Engineering, College of Art,Media, and Technology
+
 ###Chiang Mai University
 
 ##Team Triple Guu 
