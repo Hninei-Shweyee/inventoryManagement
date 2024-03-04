@@ -1,14 +1,14 @@
-#Inventory Management Project
+# Inventory Management Project
 
-###Group Project, Intro to Software Engineering.
+### Group Project, Intro to Software Engineering.
 
-###Software Engineering, College of Art,Media, and Technology
+### Software Engineering, College of Art,Media, and Technology
 
-###Chiang Mai University
+### Chiang Mai University
 
-##Team Triple Guu 
+## Team Triple Guu 
 
-####Members:
+#### Members:
 
 Hnin Ei Shwe Yee (662115503) 
 
